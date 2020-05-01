@@ -8,7 +8,7 @@
 ## Built with
 **Back End:** Rails v.6.0.2.1 | Ruby v.2.5.1
 **Testing framework:** RSpec
-**Deployed at:** [Netlify](https://newsroom3api.herokuapp.com/).
+**Deployed at:** [Heroku](https://newsroom3api.herokuapp.com/).
 
 ## The code   
 This is the API to our project Newspaper Mars Times. Here we are authenticating users, storing articles, saving all our data and also making calls to external APIs such as Stripe. This is built with Ruby on Rails. We are using Amazon Web Services to store our images.
